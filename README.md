@@ -6,7 +6,7 @@
 
 <p align="justify">Mainframe developer from São Paulo-Brazil since 2010 and now venturing out and discovering the universe of fullstack development!
 <br>
- Passionate about technology, philosofy and the best and bigger club of the world: Sociedade Esportiva Palmeiras.</a>.</p>
+ Passionate about technology, philosofy and the best and bigger club of the world: Sociedade Esportiva Palmeiras.</p>
 
 <h3 align="left">Connect with me</h3>
 
